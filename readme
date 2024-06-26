@@ -1,0 +1,4 @@
+1.instalamos las librerias:
+ pip install numpy pandas scikit-learn matplotlib
+
+ 2.
